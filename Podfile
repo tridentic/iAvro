@@ -1,5 +1,5 @@
 source 'https://github.com/CocoaPods/Specs.git'
-platform :osx
+platform :osx, '11.0'
 
 target 'Avro Keyboard'
 pod 'RegexKitLite', '~> 4.0'
